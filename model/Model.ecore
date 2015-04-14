@@ -3,5 +3,5 @@
     xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" name="RootElement" nsURI="">
   <eClassifiers xsi:type="ecore:EClass" name="renamedTest"/>
   <eClassifiers xsi:type="ecore:EClass" name="SomeNewClass"/>
-  <eClassifiers xsi:type="ecore:EClass" name="anotherClass"/>
+  <eClassifiers xsi:type="ecore:EClass" name="anotherClass2"/>
 </ecore:EPackage>
