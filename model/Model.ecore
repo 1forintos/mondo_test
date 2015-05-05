@@ -3,6 +3,6 @@
     xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" name="RootElement" nsURI="">
   <eClassifiers xsi:type="ecore:EClass" name="renamedTest"/>
   <eClassifiers xsi:type="ecore:EClass" name="SomeNewClass"/>
-  <eClassifiers xsi:type="ecore:EClass" name="masterchangeyo2"/>
+  <eClassifiers xsi:type="ecore:EClass" name="masterchangeyo34"/>
   <eClassifiers xsi:type="ecore:EClass" name="newClassInMaster"/>
 </ecore:EPackage>
